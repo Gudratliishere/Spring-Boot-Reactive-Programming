@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: dunay1
+      password: dunay1
+      database: reactive-programming
+      port: 27017
+      host: localhost
+      auto-index-creation: true
