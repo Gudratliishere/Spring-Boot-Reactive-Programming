@@ -13,9 +13,7 @@ as the database.
 - [Configuration](#configuration)
 - [Building and Running the Application](#building-and-running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
